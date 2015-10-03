@@ -1,7 +1,3 @@
-Daniel Soheili
-301163609
-dsoheili@sfu.ca
-
 - Features implemented:
 	Ray‐sphere intersection and local reflectance;
 	Shadows;
